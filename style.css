@@ -1,0 +1,27 @@
+#header{
+box-shadow: 10px 10px 20px black;
+border-radius: 50px;
+width: 100%;
+height: fit-content;
+background-color: darkgray;
+}
+
+#heading{
+    font-size: 100px;
+}
+
+body{
+    background-image:url("doodle_background.jpg");
+    text-align: center;
+}
+
+#subheading{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+}
+
+canvas{
+    background-color: darkgray;
+    border-radius: 50px;
+    border-style: dotted;
+}
